@@ -1,0 +1,12 @@
+name: /home/My Drive/IDEA2FORM/HHTX/topic-modeling/env
+channels:
+  - defaults
+dependencies:
+  - spacy
+  - matplotlib
+  - jupyterlab
+  - scikit-learn
+  - pandas
+  - gensim
+  - pyldavis
+prefix: /home/My Drive/IDEA2FORM/HHTX/topic-modeling/env
